@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "population": "1.4 billion",
+    "capital": "New Delhi",
+    "interestingFact": "India is the world's largest democracy and the birthplace of yoga."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "population": "124 million",
+    "capital": "Tokyo",
+    "interestingFact": "Japan has more than 6,800 islands and is famous for its cherry blossoms."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "population": "214 million",
+    "capital": "Brasília",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Canada",
+    "population": "39 million",
+    "capital": "Ottawa",
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Egypt",
+    "population": "112 million",
+    "capital": "Cairo",
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 6,
+    "countryName": "Australia",
+    "population": "26 million",
+    "capital": "Canberra",
+    "interestingFact": "Australia is home to unique animals like kangaroos and koalas found nowhere else in the wild."
+  },
+  {
+    "id": 7,
+    "countryName": "Germany",
+    "population": "84 million",
+    "capital": "Berlin",
+    "interestingFact": "Germany is famous for its engineering, Oktoberfest, and being the birthplace of the printing press."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "population": "61 million",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "interestingFact": "South Africa is the only country in the world with three capital cities."
+  },
+  {
+    "id": 9,
+    "countryName": "France",
+    "population": "65 million",
+    "capital": "Paris",
+    "interestingFact": "France is the most visited country in the world and is home to the Eiffel Tower."
+  },
+  {
+    "id": 10,
+    "countryName": "Mexico",
+    "population": "129 million",
+    "": "Mexico City",
+    "interestingFact": "Chocolate, chilies, and corn were first cultivated in Mexico."
+  }
+]
